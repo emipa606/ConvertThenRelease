@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PrisonerInteractionModeDef>
+    <defName>ConvertThenRelease</defName>
+    <label>convert then release</label>
+    <description>Wardens will attempt to convert the prisoner to their Ideology, and only when they have converted will they release them.</description>
+    <listOrder>24</listOrder>
+    <allowOnWildMan>False</allowOnWildMan>
+  </PrisonerInteractionModeDef>
+</Defs>

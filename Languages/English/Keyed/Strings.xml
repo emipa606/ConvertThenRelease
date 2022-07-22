@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CTRe.pawnconverted>{0} has converted, will be relseased.</CTRe.pawnconverted>
+  <CTRe.reduceresistance.label>Reduce resistance before converting</CTRe.reduceresistance.label>
+  <CTRe.reduceresistance.description>If enabled prisoners will have their resistance reduced before any converting attempt</CTRe.reduceresistance.description>
+  <CTRe.version.label>Installed mod-version: {0}</CTRe.version.label>
+</LanguageData>
