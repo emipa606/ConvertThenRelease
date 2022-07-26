@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CTRe.pawnconverted>{0} wurde bekehrt, er wird jetzt freigelassen.</CTRe.pawnconverted>
+  <CTRe.reduceresistance.label>Widerstand reduzieren vor dem Bekehren</CTRe.reduceresistance.label>
+  <CTRe.reduceresistance.description>Wenn aktiviert, wird der Widerstand von Gefangenen vor einem Versuch der Bekehrung reduziert.</CTRe.reduceresistance.description>
+  <CTRe.version.label>Installierte Mod-Version: {0}</CTRe.version.label>
+</LanguageData>
