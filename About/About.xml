@@ -25,6 +25,9 @@
     <li>Ludeon.Rimworld.Ideology</li>
     <li>avius.prisonlabor</li>
   </loadAfter>
+  <incompatibleWith>
+    <li>Mlie.CustomPrisonerInteractions</li>
+  </incompatibleWith>
   <description>[img]https://i.imgur.com/buuPQel.png[/img]
 
 Adds a prisoner-interaction to first convert prisoner and then release them.
@@ -33,11 +36,15 @@ When they get converted their interaction mode is automatically set to Release.
 There is also an option to first reduce resistance before converting. 
 This can be disabled in the options.
 
-If you like this one, take a look at my other prisoner interaction-mods
+[strike]If you like this one, take a look at my other prisoner interaction-mods
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2705395014]Convert Then Enslave[/url],
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2702584632]Convert Then Recruit[/url]
 and
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2506029522]Release When Healthy[/url]
+[/strike]
+
+So I've previously made some different prisoner interraction-mods and since the total number of different options started getting out of hand I combined them into a new mod, [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2841231775]Custom Prisoner Interactions[/url]
+This mod will still stay around for those who want it but the new mod has the same features as all the others combined plus some improvements.
 
 [table]
 	[tr]
@@ -63,6 +70,5 @@ Since modding is just a hobby for me I expect no donations to keep modding. If y
 [*] For best support, please use the Discord-channel for error-reporting.
 [*] Do not report errors by making a discussion-thread, I get no notification of that.
 [*] If you have the solution for a problem, please post it to the GitHub repository.
-[/list]
-</description>
+[/list]</description>
 </ModMetaData>
