@@ -19,6 +19,8 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2506029522]Release When H
 So I've previously made some different prisoner interraction-mods and since the total number of different options started getting out of hand I combined them into a new mod, https://steamcommunity.com/sharedfiles/filedetails/?id=2841231775]Custom Prisoner Interactions
 This mod will still stay around for those who want it but the new mod has the same features as all the others combined plus some improvements.
 
+- German translation by: mezen
+
 ![Image](https://i.imgur.com/O0IIlYj.png)
 
 Since modding is just a hobby for me I expect no donations to keep modding. If you still want to show your support you can gift me anything from my https://store.steampowered.com/wishlist/id/Mlie]Wishlist or buy me a cup of tea.

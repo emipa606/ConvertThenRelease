@@ -15,7 +15,7 @@ public class ITab_Pawn_Visitor_FillTab
         {
             if (codeInstruction.operand is float operand and > 120f && lastCode == "ldloc.2 NULL")
             {
-                codeInstruction.operand = operand += 30;
+                codeInstruction.operand = operand + 30;
             }
 
             lastCode = codeInstruction.ToString();
