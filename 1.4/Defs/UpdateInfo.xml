@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TabulaRasa.UpdateDef Abstract="true" Name="ConvertThenRelease_UpdateInfoBase">
+		<linkUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2838846353</linkUrl>
+		<banner>UpdateInfo/ConvertThenRelease</banner>
+	</TabulaRasa.UpdateDef>
+	<TabulaRasa.UpdateDef ParentName="ConvertThenRelease_UpdateInfoBase">
+		<defName>ConvertThenRelease_1_4_1</defName>
+		<date>2024/3/22</date>
+		<content>This mod will no longer be updated. 
+I have combined the features of this mod with the other prisoner-interaction mods I have made.
+The new mod is called Custom Prisoner Interactions, please switch to that mod to continue using this feature.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2841231775</content>
+	</TabulaRasa.UpdateDef>
+</Defs>
+

@@ -1,5 +1,9 @@
 # Changelog for ConvertThenRelease
 
+1.4.2 - End of life, will only update Custom Prisoner Interactions from now on
+Used DeepL to update translations for ChineseSimplified, French
+
+
 1.4.1 - Mod updated for 1.4 and passed autotests
 
 

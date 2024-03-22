@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <HugsLib.UpdateFeatureDef Abstract="true" Name="ConvertThenRelease_UpdateFeatureBase">
     <modNameReadable>ConvertThenRelease</modNameReadable>
@@ -10,4 +10,12 @@
     <content>So I've previously made some different prisoner interraction-mods and since the total number of different options started getting out of hand I combined them into a new mod, Custom Prisoner Interactions. This mod will still stay around for those who want it but the new mod has the same features as all the others combined plus some improvements.
 You can find the new mod linked from the mod-page of this mod.</content>
   </HugsLib.UpdateFeatureDef>
+	<HugsLib.UpdateFeatureDef ParentName="ConvertThenRelease_UpdateFeatureBase">
+		<defName>ConvertThenRelease_1_4_1</defName>
+		<assemblyVersion>1.4.1</assemblyVersion>
+		<content>This mod will no longer be updated. 
+I have combined the features of this mod with the other prisoner-interaction mods I have made.
+The new mod is called Custom Prisoner Interactions, please switch to that mod to continue using this feature.
+https://steamcommunity.com/sharedfiles/filedetails/?id=2841231775</content>
+	</HugsLib.UpdateFeatureDef>
 </Defs>
